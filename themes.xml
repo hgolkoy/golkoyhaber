@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.GolkoyHaber" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/blue_primary</item>
+        <item name="android:navigationBarColor">@color/blue_dark</item>
+        <item name="android:statusBarColor">@color/blue_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
